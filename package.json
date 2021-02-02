@@ -1,0 +1,24 @@
+{
+	"name": "js_interface",
+	"version": "1.0.0",
+	"description": "This is the repository of a simple npm package who add interface",
+	"main": "index.js",
+	"scripts": {},
+	"author": "Parnell \"NichoSeb2\" Polliotti",
+	"keywords": [
+		"interface",
+		"nichoseb2"
+	],
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/NichoSeb2/js_interface.git"
+	},
+	"bugs": {
+		"url": "https://github.com/NichoSeb2/js_interface/issues"
+	},
+	"homepage": "https://github.com/NichoSeb2/js_interface#readme",
+	"dependencies": {},
+	"devDependencies": {
+		"mocha": "^8.2.1"
+	}
+}
