@@ -1,5 +1,5 @@
 {
-	"name": "js_interface",
+	"name": "@nichoseb2/js_interface",
 	"version": "1.0.0",
 	"description": "This is the repository of a simple npm package who add interface",
 	"main": "index.js",
