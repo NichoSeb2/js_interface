@@ -26,6 +26,25 @@
 		"semi": [
 			"error",
 			"always"
+		],
+		"keyword-spacing": [
+			"error", {
+				"before": true,
+				"after": true
+			}
+		],
+		"brace-style": [
+			"error"
+		],
+		"space-before-blocks": [
+			"error",
+			"always"
+		],
+		"no-multiple-empty-lines": [
+			"error", {
+				"max": 1,
+				"maxEOF": 0
+			}
 		]
 	}
 }

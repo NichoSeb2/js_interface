@@ -17,8 +17,8 @@
 		"url": "https://github.com/NichoSeb2/js_interface/issues"
 	},
 	"homepage": "https://github.com/NichoSeb2/js_interface#readme",
-	"dependencies": {},
 	"devDependencies": {
-		"mocha": "^8.2.1"
+		"eslint": "^7.28.0",
+		"mocha": "^9.0.0"
 	}
 }
